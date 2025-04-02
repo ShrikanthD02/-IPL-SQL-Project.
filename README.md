@@ -1,5 +1,4 @@
-# -IPL-SQL-Project.
-"This repository contains an IPL SQL dataset covering matches from 2008 to 2024. The dataset is structured for SQL analysis, including teams, players, match details, and statistics."
+
 # IPL SQL Project 🏏
 
 This repository contains an **IPL SQL dataset** covering matches from **2008 to 2024**. The dataset includes detailed records of teams, players, match outcomes, and various statistics, making it useful for SQL queries and analysis.
